@@ -6,7 +6,7 @@ export default {
   target: 'static',
 
     router: {
-        base: 'https://ovchinnikov-lxs.github.io/voron/',
+        base: '/voron/',
     },
 
 
